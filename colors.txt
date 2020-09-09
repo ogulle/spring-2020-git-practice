@@ -6,5 +6,12 @@ pink
 orange
 ###brown
 purple
+apricot
+
+blue
+pink
+orange
+###brown
+purple
 white
 yellow
